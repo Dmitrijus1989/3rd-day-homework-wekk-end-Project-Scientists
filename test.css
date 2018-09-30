@@ -1,0 +1,22 @@
+.div {
+  border: 1px solid #e7e7e7;
+  border-top: solid blue 3px;
+  width: 850px;
+}
+
+h1 {
+  color: yellow;
+}
+
+
+.rm
+{
+    text-decoration: none;
+}
+
+.div:hover {
+  color: red;
+  border-top-color: red;
+}
+
+.div:hover .b{color:blue;}

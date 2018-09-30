@@ -1,0 +1,95 @@
+body {
+    font-size: 16px;
+    padding: 20px;
+    font-size: 130%;
+}
+
+h1:hover {
+  color: #0C95E5;
+}
+
+.Newton1 {
+  color: #0974b3;
+}
+
+.read-more {
+  color: #0000EE;
+}
+
+article {
+    border: 1px solid #e7e7e7;
+}
+
+h1 {
+  color: #0974b3;
+}
+
+.Newton {
+  border-top: solid #0974b3 5px;
+  display: block;
+  width: 882px;
+}
+
+.Einstein {
+    border-top: solid #0974b3 5px;
+    display: inline-block;
+    width: 422px;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.Tesla {
+    border-top: solid #0974b3 5px;
+    display: inline-block;
+    width: 422px;
+    margin-top: 30px;
+}
+
+h1, .years {
+  margin-left: 15px;
+}
+
+.newton-inside, .Tesla-inside, .Einstein-inside {
+  margin: 15px;
+}
+
+
+.img {
+    margin-right: 15px;
+    margin-bottom: 20px;
+    float: left;
+    height: 180px
+}
+
+.img2 {
+  margin-right: 15px;
+  margin-bottom: 20px;
+  float: left;
+  height: 220px /*niezinau kodel, bet sumazinus sita, krenta visas div*/
+}
+
+.years {
+  color: #666;
+}
+
+.Newton:hover .Newton1{color: #0C95E5;}
+.Tesla:hover .Tesla1{color: #0C95E5;}
+.Einstein:hover .Einstein1{color: #0C95E5;}
+
+article:hover {
+  border-top-color: #0C95E5;
+}
+
+.read-more:hover {
+  text-decoration: none;
+}
+
+
+/*
+    Pilko teksto spalva
+    #666;
+
+    Bloko viršutinio border ir h1 spalva:
+    #0974b3
+
+*/
