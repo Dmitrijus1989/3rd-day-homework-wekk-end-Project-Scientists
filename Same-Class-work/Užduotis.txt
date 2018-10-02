@@ -1,0 +1,17 @@
+﻿1. Parašykite trūkstamą stilių.
+
+2. Išrikiuokite blokus, kaip paveikslėlyje.
+   - Pirmo bloko plotis apie 874px
+   - Antro ir trečio bloko plotis apie 422px
+
+3. Atstumas tarp blokų - 30px.
+
+4. Paragrafų eilutės aukštis 150%.
+
+5. Antraštės bei viršutinio rėmelio spalva #0974b3, o užvedus pelę ant bloko - abiejų spalva pasikeičia į #0C95E5.
+
+6. Užvedus pelę ant nuorodų - dingsta teksto pabraukimas po apačia.
+
+7. Nuotraukos - 150px pločio. Nuotraukoms naudokite float: left taisyklę, kad parodyti tekstą dešinėje.
+
+8. Metai turi pilką spalvą #666.

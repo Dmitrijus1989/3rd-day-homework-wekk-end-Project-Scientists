@@ -1,0 +1,53 @@
+body {
+    font-size: 16px;
+    padding: 20px;
+    background: #ddd;
+}
+p {
+  line-height: 150%;
+}
+h1 {color: #0974b3;}
+img {
+  width: 150px;
+  margin-right: 12px;
+  float: left;
+}
+.years{color: #666;}
+article {
+    background: #fff;
+    border: 1px solid #e7e7e7;
+}
+
+.citata {
+  font-style: italic;
+}
+.newton {
+width: 1023px;
+}
+.einstein, .tesla {
+  display: inline-block;
+  width: 470px;
+  vertical-align: top;
+  margin-top: 30px;
+}
+.tesla {margin-left: 30px;}
+.newton, .einstein, .tesla {
+  border-top: solid #0974b3 4px;
+  padding: 24px;
+  cursor: pointer;
+}
+.read-more:hover {
+  text-decoration: none;
+}
+article:hover h1{
+  color: #0C95E5;
+}
+article:hover {border-top-color: #0C95E5;}
+/*
+    Pilko teksto spalva
+    #666;
+
+    Bloko viršutinio border ir h1 spalva:
+    #0974b3
+
+*/
